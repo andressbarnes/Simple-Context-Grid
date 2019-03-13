@@ -1,6 +1,7 @@
 {
   "name": "color-grid",
   "version": "0.1.0",
+  "homepage": "https://andressbarnes.com/labs/simple-grid",
   "private": true,
   "dependencies": {
     "bootstrap-4-react": "0.0.58",
